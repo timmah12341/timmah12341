@@ -6,7 +6,7 @@
 
 Hey everyone! I'm Tim, an enthusiastic developer currently on an exciting journey to learn the ropes of coding and game development. My passion lies in creating interactive experiences, and I'm diving headfirst into understanding how everything works to bring my game ideas to life! I don't claim to be an expert yet, but I'm incredibly eager to learn and grow. A big shoutout to [@The-Best-Alexander](https://github.com/The-Best-Alexander) for the amazing support in my journey – thank you!
 
-### 🎯 Current Focus
+### Current Focus
 
 - Working on: **My first interactive game, "Tim Clicker"**
 
@@ -59,7 +59,7 @@ I'm always working on something new! Here are a few projects that highlight my l
 
 <div align="center">
 
-### 🌟 [Tim Clicker Game](https://timmah12341.github.io/tim-clicker)
+### [Tim Clicker Game](https://timmah12341.github.io/tim-clicker)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=timmah12341&repo=tim-clicker&theme=tokyonight)](https://github.com/timmah12341/tim-clicker)
 
 **Tech Stack:** HTML • CSS • JavaScript
@@ -68,7 +68,7 @@ I'm always working on something new! Here are a few projects that highlight my l
 
 </div>
 
-## 🎯 My Goals & Aspirations
+## My Goals & Aspirations
 
 Here's what I'm aiming for on my coding journey:
 
