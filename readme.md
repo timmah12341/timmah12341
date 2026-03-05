@@ -60,7 +60,6 @@ I'm always working on something new! Here are a few projects that highlight my l
 <div align="center">
 
 ### [Tim Clicker Game](https://timmah12341.github.io/tim-clicker)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=timmah12341&repo=tim-clicker&theme=tokyonight)](https://github.com/timmah12341/tim-clicker)
 
 **Tech Stack:** HTML • CSS • JavaScript
 **Status:** My first interactive game!
