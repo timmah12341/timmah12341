@@ -1,4 +1,4 @@
-# Hi there! 👾 I'm Tim
+# Hi there! I'm Tim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Game+Developer;Learning+to+Code;Building+Interactive+Experiences;Exploring+Web+Technologies)](https://git.io/typing-svg)
 
@@ -81,7 +81,7 @@ Here's what I'm aiming for on my coding journey:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=timmah12341&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "The only way to learn to code is to code."
+  ### "First make it exist, then make it good."
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+  <sub>Feel free to star any repositories you find interesting!</sub>
 </div>
