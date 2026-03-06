@@ -30,13 +30,6 @@ I'm actively building my development toolkit! Here are some technologies I'm cur
 <!-- Currently focused on front-end logic, but keen to explore databases for persistent game data! -->
 <!-- TODO: Add databases as you learn them (e.g., SQLite, Firebase) -->
 
-## GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timmah12341&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmah12341&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=timmah12341&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
